@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francis Watson
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning Azure DevOps with Microsoft Azure
-- 💞️ I’m looking to collaborate on anything Java related
+- 👀 1x AWS Cloud Practioner Certify 
+- 🌱 I’m currently working AWS Developer Associate Certification
+- 💞️ I’m looking to collaborate on anything AWS related
 - 📫 I'm reachable on Linkedin @Francis Watson.
 
 <!---
